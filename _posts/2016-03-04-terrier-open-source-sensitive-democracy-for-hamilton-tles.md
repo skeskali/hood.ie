@@ -136,6 +136,27 @@ Thanks to [Steffen](https://github.com/stehuebn) for reporting [a bug in our new
 Last but not least, thanks [Cecily](https://github.com/skeskali) for bringing
 back our beloved TGIF: [Terrier Open Source Sensitive Democracy for Hamilton Tiles](hood.ie/blog/terrier-open-source-sensitive-democracy-for-hamilton-tles-tgif-72.html)
 
+## Would you like to become a Hoodie Contributor?
+
+We prepared some great starter issues for you. If you like issue like these,
+we recommend you follow your friends [@YourFirstPR](http://twitter.com/yourfirstPR)
+on twitter :)
+
+### Code
+
+- [PATCH /session/account -> 409 "data.id must be '{id}'" error](https://github.com/hoodiehq/hoodie-server-account/issues/100)
+- [PATCH /session/account/profile -> 204](https://github.com/hoodiehq/hoodie-server-account/issues/102)
+- [PATCH /session/account -> 204](https://github.com/hoodiehq/hoodie-server-account/issues/99)
+- [PUT /session/account 409 error message](https://github.com/hoodiehq/hoodie-server-account/issues/97)
+
+### Editorial
+
+- [/contributers](https://github.com/hoodiehq/editorial/issues/61)
+- [Write a bio for Blog Bear 🐻](https://github.com/hoodiehq/editorial/issues/64)
+- [Create a bio (and pick out a name) for the design mascot, an alpaca](https://github.com/hoodiehq/editorial/issues/66)
+- [Additional copy for hood.ie/get-help](https://github.com/hoodiehq/editorial/issues/67)
+- [Additional copy for hood.ie/community](https://github.com/hoodiehq/editorial/issues/68)
+
 ## Hoodie Camp Release
 
 As we mentioned in our [Birthday Post](http://hood.ie/blog/happy-birthday-hoodie.html),
